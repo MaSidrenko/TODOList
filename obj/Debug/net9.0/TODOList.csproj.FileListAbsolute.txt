@@ -77,3 +77,4 @@ E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Deb
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\TODOList.pdb
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\TODOList.genruntimeconfig.cache
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\ref\TODOList.dll
+E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\TODOList.sourcelink.json
