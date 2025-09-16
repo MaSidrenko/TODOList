@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/CInoj0Cf4MlBpgiFcEuh0bitP0vFLPSrkp358p4P6s=",
+  "Hash": "/qTWqjmG0P2CG6rV8zFFI420tkbcOcJYRScrdFEGIrA=",
   "Source": "TODOList",
   "BasePath": "_content/TODOList",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-6yinwxlwbq.gz",
+      "Identity": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-1nk5gxfemt.gz",
       "SourceId": "TODOList",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TODOList",
-      "RelativePath": "TODOList#[.{fingerprint=6yinwxlwbq}]!.bundle.scp.css.gz",
+      "RelativePath": "TODOList#[.{fingerprint=1nk5gxfemt}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TODOList.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pz5m16ir52",
-      "Integrity": "1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=",
+      "Fingerprint": "ghd1dsltsy",
+      "Integrity": "fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TODOList.bundle.scp.css"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-6yinwxlwbq.gz",
+      "Identity": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-1nk5gxfemt.gz",
       "SourceId": "TODOList",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/TODOList",
-      "RelativePath": "TODOList#[.{fingerprint=6yinwxlwbq}]?.styles.css.gz",
+      "RelativePath": "TODOList#[.{fingerprint=1nk5gxfemt}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TODOList.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pz5m16ir52",
-      "Integrity": "1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=",
+      "Fingerprint": "ghd1dsltsy",
+      "Integrity": "fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TODOList.styles.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "6yinwxlwbq",
-      "Integrity": "rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=",
+      "Fingerprint": "1nk5gxfemt",
+      "Integrity": "Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TODOList.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "6yinwxlwbq",
-      "Integrity": "rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=",
+      "Fingerprint": "1nk5gxfemt",
+      "Integrity": "Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TODOList.bundle.scp.css"
@@ -15506,13 +15506,13 @@
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.bundle.scp.css",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-6yinwxlwbq.gz",
+      "Route": "TODOList.1nk5gxfemt.bundle.scp.css",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-1nk5gxfemt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000561482313"
+          "Quality": "0.000549752611"
         }
       ],
       "ResponseHeaders": [
@@ -15522,15 +15522,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15550,13 +15550,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "W/\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15564,12 +15564,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.bundle.scp.css",
+      "Route": "TODOList.1nk5gxfemt.bundle.scp.css",
       "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TODOList.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15579,7 +15579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6073"
         },
         {
           "Name": "Content-Type",
@@ -15587,11 +15587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15601,7 +15601,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15609,13 +15609,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.bundle.scp.css.gz",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-6yinwxlwbq.gz",
+      "Route": "TODOList.1nk5gxfemt.bundle.scp.css.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-1nk5gxfemt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15624,7 +15624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "Content-Type",
@@ -15632,11 +15632,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15654,7 +15654,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15662,18 +15662,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM="
+          "Value": "sha256-fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic="
         }
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.styles.css",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-6yinwxlwbq.gz",
+      "Route": "TODOList.1nk5gxfemt.styles.css",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-1nk5gxfemt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000561482313"
+          "Quality": "0.000549752611"
         }
       ],
       "ResponseHeaders": [
@@ -15683,15 +15683,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15711,13 +15711,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "W/\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15725,12 +15725,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.styles.css",
+      "Route": "TODOList.1nk5gxfemt.styles.css",
       "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\scopedcss\\bundle\\TODOList.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15740,7 +15740,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6073"
         },
         {
           "Name": "Content-Type",
@@ -15748,11 +15748,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15762,7 +15762,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15770,13 +15770,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
-      "Route": "TODOList.6yinwxlwbq.styles.css.gz",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-6yinwxlwbq.gz",
+      "Route": "TODOList.1nk5gxfemt.styles.css.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-1nk5gxfemt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15785,7 +15785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "Content-Type",
@@ -15793,11 +15793,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15815,7 +15815,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6yinwxlwbq"
+          "Value": "1nk5gxfemt"
         },
         {
           "Name": "label",
@@ -15823,18 +15823,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM="
+          "Value": "sha256-fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic="
         }
       ]
     },
     {
       "Route": "TODOList.bundle.scp.css",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-6yinwxlwbq.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-1nk5gxfemt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000561482313"
+          "Quality": "0.000549752611"
         }
       ],
       "ResponseHeaders": [
@@ -15844,15 +15844,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15872,13 +15872,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "W/\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
@@ -15893,7 +15893,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6073"
         },
         {
           "Name": "Content-Type",
@@ -15901,11 +15901,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15915,13 +15915,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
       "Route": "TODOList.bundle.scp.css.gz",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-6yinwxlwbq.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\0hr63k9tam-1nk5gxfemt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15930,7 +15930,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "Content-Type",
@@ -15938,11 +15938,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15960,18 +15960,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM="
+          "Value": "sha256-fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic="
         }
       ]
     },
     {
       "Route": "TODOList.styles.css",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-6yinwxlwbq.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-1nk5gxfemt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000561482313"
+          "Quality": "0.000549752611"
         }
       ],
       "ResponseHeaders": [
@@ -15981,15 +15981,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16009,13 +16009,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "W/\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
@@ -16030,7 +16030,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5963"
+          "Value": "6073"
         },
         {
           "Name": "Content-Type",
@@ -16038,11 +16038,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag=\""
+          "Value": "\"Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16052,13 +16052,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rlO7oDvcQeohNfKQTR12l+1JTjybN2Is9GX6M071Dag="
+          "Value": "sha256-Q2SPgf/07L7iJVJfsPRN5jC8wGQI8v9eqOaED0OFB4Y="
         }
       ]
     },
     {
       "Route": "TODOList.styles.css.gz",
-      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-6yinwxlwbq.gz",
+      "AssetFile": "E:\\Users\\Maxim Sidorenko\\sourceVS\\.NET\\C#\\ADO.NET\\IntroToBlazor\\TODOList\\obj\\Debug\\net9.0\\compressed\\3okrfup6rj-1nk5gxfemt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16067,7 +16067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1780"
+          "Value": "1818"
         },
         {
           "Name": "Content-Type",
@@ -16075,11 +16075,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM=\""
+          "Value": "\"fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 16 Sep 2025 16:08:10 GMT"
+          "Value": "Tue, 16 Sep 2025 17:58:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16097,7 +16097,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1SC2NUy6u5dMBZaG/P2as957QmUqWjC/RZKxeLm9zUM="
+          "Value": "sha256-fFh6cT91HUq54Se5mpdcoEysD76Gd50YxmuM/MrNzic="
         }
       ]
     }

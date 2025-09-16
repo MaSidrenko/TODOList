@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Users/Maxim Sidorenko/sourceVS/.NET/C\#/ADO.NET/IntroToBlazor/TODOList/Components/Pages/TODO.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUT0RPLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/Users/Maxim Sidorenko/sourceVS/.NET/C\#/ADO.NET/IntroToBlazor/TODOList/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,3 +55,7 @@ build_metadata.AdditionalFiles.CssScope = b-fckoop8kbk
 [E:/Users/Maxim Sidorenko/sourceVS/.NET/C\#/ADO.NET/IntroToBlazor/TODOList/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3xzht9yy51
+
+[E:/Users/Maxim Sidorenko/sourceVS/.NET/C\#/ADO.NET/IntroToBlazor/TODOList/Components/Pages/TODO.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUT0RPLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ndvicjobjs

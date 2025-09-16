@@ -1,0 +1,7 @@
+ul[b-ndvicjobjs] {
+    list-style: none;
+}
+.complete-task[b-ndvicjobjs] {
+    text-decoration: line-through;
+    color: gray;
+}

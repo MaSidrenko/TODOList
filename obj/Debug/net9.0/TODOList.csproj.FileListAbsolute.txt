@@ -61,8 +61,6 @@ E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Deb
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\ib3len5113-h1s4sie4z3.gz
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\u4oaw91oj0-63fj8s7r0e.gz
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\zlfrqt1q99-0j3bgjxly4.gz
-E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\3okrfup6rj-6yinwxlwbq.gz
-E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\0hr63k9tam-6yinwxlwbq.gz
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\staticwebassets.build.json
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\staticwebassets.development.json
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -78,3 +76,6 @@ E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Deb
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\TODOList.genruntimeconfig.cache
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\ref\TODOList.dll
 E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\TODOList.sourcelink.json
+E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\scopedcss\Components\Pages\TODO.razor.rz.scp.css
+E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\3okrfup6rj-1nk5gxfemt.gz
+E:\Users\Maxim Sidorenko\sourceVS\.NET\C#\ADO.NET\IntroToBlazor\TODOList\obj\Debug\net9.0\compressed\0hr63k9tam-1nk5gxfemt.gz

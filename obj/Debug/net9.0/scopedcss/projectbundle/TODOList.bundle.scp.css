@@ -203,3 +203,11 @@ main[b-fckoop8kbk] {
         overflow-y: auto;
     }
 }
+/* _content/TODOList/Components/Pages/TODO.razor.rz.scp.css */
+ul[b-ndvicjobjs] {
+    list-style: none;
+}
+.complete-task[b-ndvicjobjs] {
+    text-decoration: line-through;
+    color: gray;
+}
