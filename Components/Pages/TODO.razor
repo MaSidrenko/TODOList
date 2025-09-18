@@ -12,30 +12,38 @@
 <button @onclick="AddTask">Добавить</button>
 <div class="task-list">
     <div class="task-card">
-    <h3>В процессе:</h3>
-        <ul>
-            @foreach (TODOitem i in tasks)
-            {
-                <li>
-                    <input type="checkbox" @bind="i.Done" />
-                    <span class=@(i.Done ? "complete-task" : "")>@i.Title</span>
-                </li>
-            }
-        </ul>
-    </div>
-    <div class="task-card">
-        <h3 style="color: green">Выполнено:</h3>
-        <ul>
-            @foreach (TODOitem i in tasks)
-            {
-                if (i.Done)
+        <div class="in-process-card">
+            <h3>В процессе:</h3>
+            <ul>
+                @foreach (TODOitem i in tasks)
                 {
                     <li>
-                        <span class="complete-task">@i.Title</span>
+                        @if (!i.Done)
+                        {
+                            <input type="checkbox" @bind="i.Done" />
+                            <span class=@(i.Done ? "complete-task" : "")>@i.Title</span>
+                        }
                     </li>
                 }
-            }
-        </ul>
+            </ul>
+        </div>
+    </div>
+    <div class="task-card">
+        <div class="done-card">
+            <h3 style="color: green">Выполнено:</h3>
+            <ul>
+                @foreach (TODOitem i in tasks)
+                {
+                    if (i.Done)
+                    {
+                        <li>
+                            <input type="checkbox" @bind="i.Done">
+                            <span class="complete-task" style="color: rgb(92, 184, 92)">@i.Title</span>
+                        </li>
+                    }
+                }
+            </ul>
+        </div>
     </div>
 </div>
 
