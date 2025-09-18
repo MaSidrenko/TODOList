@@ -1,7 +1,28 @@
 ul {
-    list-style: none;
+  list-style: none;
 }
 .complete-task {
-    text-decoration: line-through;
-    color: gray;
+  text-decoration: line-through;
+  color: gray;
+}
+
+.task-card {
+    /* padding: 20px; */
+    /* flex: 1; */
+    max-width: 300px;
+}
+
+.task-list {
+    display: flex;
+    gap: 20px;
+    /* justify-content: center; */
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.task-card {
+    flex: 1;
+    padding: 20px;
+    /* border: 1px solid #ddd; */
+
 }

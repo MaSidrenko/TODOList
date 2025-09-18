@@ -205,9 +205,30 @@ main[b-fckoop8kbk] {
 }
 /* _content/TODOList/Components/Pages/TODO.razor.rz.scp.css */
 ul[b-ndvicjobjs] {
-    list-style: none;
+  list-style: none;
 }
 .complete-task[b-ndvicjobjs] {
-    text-decoration: line-through;
-    color: gray;
+  text-decoration: line-through;
+  color: gray;
+}
+
+.task-card[b-ndvicjobjs] {
+    /* padding: 20px; */
+    /* flex: 1; */
+    max-width: 300px;
+}
+
+.task-list[b-ndvicjobjs] {
+    display: flex;
+    gap: 20px;
+    /* justify-content: center; */
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.task-card[b-ndvicjobjs] {
+    flex: 1;
+    padding: 20px;
+    /* border: 1px solid #ddd; */
+
 }

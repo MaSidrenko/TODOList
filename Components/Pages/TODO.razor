@@ -10,16 +10,34 @@
 
 <input type="text" placeholder="Новая задача" @bind="task">
 <button @onclick="AddTask">Добавить</button>
-<span class="complete-task">OverLine</span>
-<ul>
-    @foreach (TODOitem i in tasks)
-    {
-        <li>
-            <input type="checkbox" @bind="i.Done" />
-            <span class=@(i.Done ? "complete-task" : "")>@i.Title</span>
-        </li>
-    }
-</ul>
+<div class="task-list">
+    <div class="task-card">
+    <h3>В процессе:</h3>
+        <ul>
+            @foreach (TODOitem i in tasks)
+            {
+                <li>
+                    <input type="checkbox" @bind="i.Done" />
+                    <span class=@(i.Done ? "complete-task" : "")>@i.Title</span>
+                </li>
+            }
+        </ul>
+    </div>
+    <div class="task-card">
+        <h3 style="color: green">Выполнено:</h3>
+        <ul>
+            @foreach (TODOitem i in tasks)
+            {
+                if (i.Done)
+                {
+                    <li>
+                        <span class="complete-task">@i.Title</span>
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+</div>
 
 @code {
     private List<TODOitem> tasks = new();
